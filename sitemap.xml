@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+	xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="https://www.w3.org/1999/xhtml">
+	<url>
+		<loc>https://brand.com</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://brand.com"/>
+		<xhtml:link rel="alternate" hreflang="sv" href="https://brand.com/sv/"/>
+	</url>
+	<url>
+		<loc>https://brand.com/sv/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://brand.com"/>
+		<xhtml:link rel="alternate" hreflang="sv" href="https://brand.com/sv/"/>
+	</url>
+</urlset>
